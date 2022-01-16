@@ -1,5 +1,15 @@
-##homework0
-_Preview_
+# Yash's First CS193 Homework
+_favourite things about CS193_
+ 
+ - Learning about the different platforms available to make programming easier
+ - Getting a hang of the various tools, to code faster
+ - Devaloping a software/program or creating a platform as a team
+
+
+
+
+
+
 ## Welcome to GitHub Pages 
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
